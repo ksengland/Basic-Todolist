@@ -5,7 +5,10 @@ function Todo({ todo, index, remove }) {
   }
   return (
     <div className="todo" onClick={handle}>
-      {todo.text} [-]
+      <label>
+        <input type="checkbox" />
+        {todo.text}
+      </label>
     </div>
   );
 }
