@@ -11,7 +11,6 @@ Keep track of tasks you need to complete and feel a sense of accomplishment when
 - todo.js
 - 
 ## Instructions:
-**Option 2**
 1. Fork this repository
 2. Clone your forked repository
 3. Open the repository and drag `index.html` onto your browser
